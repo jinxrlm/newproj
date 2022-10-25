@@ -1,0 +1,12 @@
+.mainframe {
+    width:800px;
+}
+.fakeimg {
+ float:left;
+ width:200px;
+ height:200px;
+ background-color:#666;
+}
+.textfill {
+ text-align:justify;
+}
