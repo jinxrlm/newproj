@@ -6,6 +6,9 @@
  width:200px;
  height:200px;
  background-color:#666;
+ margin:10px 20px;
+ text-align: center;
+ 
 }
 .textfill {
  text-align:justify;
